@@ -1,5 +1,9 @@
 Секретные механики Hamster Combat.Если долго кликать на алмаз то с шансам 1% может выпасть либо bitcoin или etherium.Их можна обменять  на coin.
 Ещё когда долго кликать на юани то с шансом может выпасть время.
+
+
+
+
 ----------Устоновка--------------------
 1 шаг.
 Перейдите по сылке:https://gitlab.com/nin555/hamstercombatparodygame/-/blob/main/HamsterCombatParodyGame.7z
